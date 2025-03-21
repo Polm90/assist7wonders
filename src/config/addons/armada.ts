@@ -31,6 +31,7 @@ const armada = {
         {
           id: 'dockyard',
           min: 0,
+          max: 10
         },
       ],
     },
